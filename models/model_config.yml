@@ -1,0 +1,5 @@
+model : "gpt-3.5-turbo-instruct"
+temperature : 1
+max_tokens: 200
+prompt : "Rephrase your answer based only on the information provided in the answers given."
+    
